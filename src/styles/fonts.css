@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "Neue Machina";
+    font-weight: 400;
+    font-style: normal;
+    font-display: fallback;
+    src:local("NeueMachina-Regular");
+    src:url("../assets/fonts/NeueMachina-Regular.eot"); 
+    src:url("../assets/fonts/NeueMachina-Regular.eot?#iefix") format("embedded-opentype");
+    src:url("../assets/fonts/NeueMachina-Regular.ttf") format("truetype");
+    src:url("../assets/fonts/NeueMachina-Regular.woff") format("woff");
+    src:url("../assets/fonts/NeueMachina-Regular.woff2") format("woff2"); 
+}

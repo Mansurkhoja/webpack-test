@@ -1,0 +1,2497 @@
+[
+  {
+    "Network": "AFGHANISTAN AREEBA MOBILE (MTN) [AFGAR] ",
+    "Price per 1 MB": 0.0249,
+    "Country": "AFGHANISTAN"
+  },
+  {
+    "Network": "AFGHANISTAN MOBILE (AWCC) [AFGAW] ",
+    "Price per 1 MB": 0.4381,
+    "Country": "AFGHANISTAN"
+  },
+  {
+    "Network": "AFGHANISTAN ETISALAT MOBILE [AFGEA] ",
+    "Price per 1 MB": 0.1339,
+    "Country": "AFGHANISTAN"
+  },
+  {
+    "Network": "ALBANIA AMC MOBILE [ALBAM] ",
+    "Price per 1 MB": 0.0433,
+    "Country": "ALBANIA"
+  },
+  {
+    "Network": "ALBANIA EAGLE MOBILE [ALBEM] ",
+    "Price per 1 MB": 0.0795,
+    "Country": "ALBANIA"
+  },
+  {
+    "Network": "ALGERIA WATANIYA MOBILE - Wataniya Telecom Algerie [DZAWT] ",
+    "Price per 1 MB": 0.0929,
+    "Country": "ALGERIA"
+  },
+  {
+    "Network": "ANGOLA UNITEL MOBILE - Unitel [AGOUT] ",
+    "Price per 1 MB": 0.2195,
+    "Country": "ANGOLA"
+  },
+  {
+    "Network": "ANGUILLA DIGICEL MOBILE - (Digicel Mossel) [JAMDC] ",
+    "Price per 1 MB": 0.0368,
+    "Country": "ANGUILLA"
+  },
+  {
+    "Network": "ANGUILLA MOBILE - (C & W) [AIACW] ",
+    "Price per 1 MB": 0.1777,
+    "Country": "ANGUILLA"
+  },
+  {
+    "Network": "ANTIGUA AND BARBUDA MOBILE - C & W [ATGCW] ",
+    "Price per 1 MB": 0.1814,
+    "Country": "ANTIGUA"
+  },
+  {
+    "Network": "ANTIGUA DIGICEL MOBILE - (Digicel) [JAMDC] ",
+    "Price per 1 MB": 0.0368,
+    "Country": "ANTIGUA"
+  },
+  {
+    "Network": "ANTIGUA DIGICEL MOBILE - (Digicel) [JAMDC] ",
+    "Price per 1 MB": 0.0368,
+    "Country": "ANTIGUA"
+  },
+  {
+    "Network": "ARGENTINA MOBILE - (Movistar) [ARGTM] ",
+    "Price per 1 MB": 0.0861,
+    "Country": "ARGENTINA"
+  },
+  {
+    "Network": "ARGENTINA MOBILE - (Movistar) [ARGTM] ",
+    "Price per 1 MB": 0.0861,
+    "Country": "ARGENTINA"
+  },
+  {
+    "Network": "ARGENTINA MOBILE - Telecom Personal SA (Personal) [ARGTP] ",
+    "Price per 1 MB": 0.0244,
+    "Country": "ARGENTINA"
+  },
+  {
+    "Network": "ARMENIA MOBILE - ArmenTel (ARMGSM) [ARM01] ",
+    "Price per 1 MB": 0.0541,
+    "Country": "ARMENIA"
+  },
+  {
+    "Network": "ARMENIA VIVA CELL MOBILE - K Telecom - Vivacel [ARM05] ",
+    "Price per 1 MB": 0.0402,
+    "Country": "ARMENIA"
+  },
+  {
+    "Network": "ARUBA DIGICEL MOBILE - (Digicel Mossel) [JAMDC] ",
+    "Price per 1 MB": 0.0368,
+    "Country": "ARUBA"
+  },
+  {
+    "Network": "ARUBA DIGICEL MOBILE - (Digicel Mossel) [JAMDC] ",
+    "Price per 1 MB": 0.0368,
+    "Country": "ARUBA"
+  },
+  {
+    "Network": "AUSTRALIA OPTUS MOBILE - Singtel Optus Limited (YES OPTUS) [AUSOP] ",
+    "Price per 1 MB": 0.0554,
+    "Country": "AUSTRALIA"
+  },
+  {
+    "Network": "AUSTRALIA TELSTRA MOBILE - (Telstra MobileNet) [AUSTA] ",
+    "Price per 1 MB": 0.2313,
+    "Country": "AUSTRALIA"
+  },
+  {
+    "Network": "AUSTRIA H3G MOBILE - One/Drei [AUTCA] ",
+    "Price per 1 MB": 0.0142,
+    "Country": "AUSTRIA"
+  },
+  {
+    "Network": "AUSTRIA H3G MOBILE - One/Drei [AUTCA] ",
+    "Price per 1 MB": 0.0142,
+    "Country": "AUSTRIA"
+  },
+  {
+    "Network": "AUSTRIA T-MOBILE MOBILE - T-Mobile [AUTMM] ",
+    "Price per 1 MB": 0.0142,
+    "Country": "AUSTRIA"
+  },
+  {
+    "Network": "AUSTRIA T-MOBILE MOBILE - T-Mobile [AUTMM] ",
+    "Price per 1 MB": 0.0142,
+    "Country": "AUSTRIA"
+  },
+  {
+    "Network": "AUSTRIA T-MOBILE MOBILE - T-Mobile [AUTMM] ",
+    "Price per 1 MB": 0.0142,
+    "Country": "AUSTRIA"
+  },
+  {
+    "Network": "AZERBAIJAN BAKCELL MOBILE - (BAKCELL) [AZEBC] ",
+    "Price per 1 MB": 0.0116,
+    "Country": "AZERBAIJAN"
+  },
+  {
+    "Network": "AZERBAIJAN MOBILE - (AZERCELL) [AZEAC] ",
+    "Price per 1 MB": 0.016,
+    "Country": "AZERBAIJAN"
+  },
+  {
+    "Network": "BAHAMAS MOBILE - BTC [BHSBH] ",
+    "Price per 1 MB": 0.1013,
+    "Country": "BAHAMAS"
+  },
+  {
+    "Network": "BAHAMAS MOBILE - BTC [BHSBH] ",
+    "Price per 1 MB": 0.1013,
+    "Country": "BAHAMAS"
+  },
+  {
+    "Network": "BAHRAIN MOBILE - Batelco (BHR MOBILE PLUS) [BHRBT] ",
+    "Price per 1 MB": 0.0381,
+    "Country": "BAHRAIN"
+  },
+  {
+    "Network": "BAHRAIN VIVA MOBILE - Viva [BHRST] ",
+    "Price per 1 MB": 0.1013,
+    "Country": "BAHRAIN"
+  },
+  {
+    "Network": "BANGLADESH OTHER MOBILE - (AKTEL) [BGDAK] ",
+    "Price per 1 MB": 0.0861,
+    "Country": "BANGLADESH"
+  },
+  {
+    "Network": "BANGLADESH OTHER MOBILE - GrameenPhone Ltd [BGDGP] ",
+    "Price per 1 MB": 0.3557,
+    "Country": "BANGLADESH"
+  },
+  {
+    "Network": "BARBADOS DIGICEL MOBILE - (Digicel) [JAMDC] ",
+    "Price per 1 MB": 0.0368,
+    "Country": "BARBADOS"
+  },
+  {
+    "Network": "BARBADOS DIGICEL MOBILE - (Digicel) [JAMDC] ",
+    "Price per 1 MB": 0.0368,
+    "Country": "BARBADOS"
+  },
+  {
+    "Network": "BARBADOS OTHER MOBILE - (C & W) [BRBCW] ",
+    "Price per 1 MB": 0.1777,
+    "Country": "BARBADOS"
+  },
+  {
+    "Network": "BELARUS MOBILE - (VELCOM) [BLRMD] ",
+    "Price per 1 MB": 39.3524,
+    "Country": "BELARUS"
+  },
+  {
+    "Network": "BELARUS MTS MOBILE - (MTS) [BLR02] ",
+    "Price per 1 MB": 0.0396,
+    "Country": "BELARUS"
+  },
+  {
+    "Network": "BELGIUM BELGACOM-M MOBILE - (PROXIMUS) [BELTB] ",
+    "Price per 1 MB": 0.0142,
+    "Country": "BELGIUM"
+  },
+  {
+    "Network": "BELGIUM MOBISTAR MOBILE - Mobistar S.A. [BELMO] ",
+    "Price per 1 MB": 0.0142,
+    "Country": "BELGIUM"
+  },
+  {
+    "Network": "BELIZE MOBILE - Belize Telecommunications Ltd [BLZ67] ",
+    "Price per 1 MB": 0.1215,
+    "Country": "BELIZE"
+  },
+  {
+    "Network": "BERMUDA MOBILE - CellOne (BDC) [BMUBD] ",
+    "Price per 1 MB": 0.1108,
+    "Country": "BERMUDA"
+  },
+  {
+    "Network": "BERMUDA MOBILE - Digicel (ex Cingular) [JAMDC] ",
+    "Price per 1 MB": 0.0368,
+    "Country": "BERMUDA"
+  },
+  {
+    "Network": "BHUTAN MOBILE - Tashi InfoComm Ltd [BTNTC] ",
+    "Price per 1 MB": 25.0396,
+    "Country": "BHUTAN"
+  },
+  {
+    "Network": "BOLIVIA NUEVAT MOBILE - Nuevatel [BOLNT] ",
+    "Price per 1 MB": 0.1242,
+    "Country": "BOLIVIA"
+  },
+  {
+    "Network": "BOSNIA BH MOBILE - BH Telecom Sarajevo (GSMBIH) [BIHPT] ",
+    "Price per 1 MB": 1.6858,
+    "Country": "BOSNIA"
+  },
+  {
+    "Network": "BOSNIA MOSTAR MOBILE - HT Mobile [BIHER] ",
+    "Price per 1 MB": 0.1223,
+    "Country": "BOSNIA"
+  },
+  {
+    "Network": "BOSNIA MTEL MOBILE - RS Telecommunication [BIHMS] ",
+    "Price per 1 MB": 0.3932,
+    "Country": "BOSNIA"
+  },
+  {
+    "Network": "BOTSWANA MOBILE - beMOBILE [BWABC] ",
+    "Price per 1 MB": 32.1051,
+    "Country": "BOTSWANA"
+  },
+  {
+    "Network": "BOTSWANA MTN MOBILE [BWAGA] ",
+    "Price per 1 MB": 0.0184,
+    "Country": "BOTSWANA"
+  },
+  {
+    "Network": "BRAZIL MOBILE - Oi [BRABT] ",
+    "Price per 1 MB": 0.2176,
+    "Country": "BRAZIL"
+  },
+  {
+    "Network": "BRAZIL MOBILE - TIM [BRASP/RN/CS] ",
+    "Price per 1 MB": 0.163,
+    "Country": "BRAZIL"
+  },
+  {
+    "Network": "BRAZIL MOBILE - TIM [BRASP/RN/CS] ",
+    "Price per 1 MB": 0.163,
+    "Country": "BRAZIL"
+  },
+  {
+    "Network": "BRAZIL MOBILE - TIM [BRASP/RN/CS] ",
+    "Price per 1 MB": 0.163,
+    "Country": "BRAZIL"
+  },
+  {
+    "Network": "BRAZIL MOBILE - Vivo [BRATC/V1/V2/V3] ",
+    "Price per 1 MB": 0.0659,
+    "Country": "BRAZIL"
+  },
+  {
+    "Network": "BRAZIL MOBILE - Vivo [BRATC/V1/V2/V3] ",
+    "Price per 1 MB": 0.0659,
+    "Country": "BRAZIL"
+  },
+  {
+    "Network": "BRAZIL MOBILE - Vivo [BRATC/V1/V2/V3] ",
+    "Price per 1 MB": 0.0659,
+    "Country": "BRAZIL"
+  },
+  {
+    "Network": "BRAZIL MOBILE - Vivo [BRATC/V1/V2/V3] ",
+    "Price per 1 MB": 0.0659,
+    "Country": "BRAZIL"
+  },
+  {
+    "Network": "BRAZIL MOBILE - Vivo [BRATC/V1/V2/V3] ",
+    "Price per 1 MB": 0.0659,
+    "Country": "BRAZIL"
+  },
+  {
+    "Network": "BRUNEI DARUSSALAM MOBILE - B-Mobile Communications [BRNBR] ",
+    "Price per 1 MB": 0.0417,
+    "Country": "BRUNEI"
+  },
+  {
+    "Network": "BRUNEI DARUSSALAM MOBILE - DST Com [BRNDS] ",
+    "Price per 1 MB": 39.1369,
+    "Country": "BRUNEI"
+  },
+  {
+    "Network": "BULGARIA GLOBUL MOBILE - (GLOBUL) [BGRCM] ",
+    "Price per 1 MB": 0.0142,
+    "Country": "BULGARIA"
+  },
+  {
+    "Network": "BULGARIA OTHER MOBILE - BTC Mobile [BGRVA] ",
+    "Price per 1 MB": 0.0142,
+    "Country": "BULGARIA"
+  },
+  {
+    "Network": "BURKINA FASO ZAIN MOBILE - Celtel Burkina Faso [BFACT] ",
+    "Price per 1 MB": 4.4856,
+    "Country": "BURKINA"
+  },
+  {
+    "Network": "BURUNDI LACELL MOBILE [BDIL1] ",
+    "Price per 1 MB": 7.1544,
+    "Country": "BURUNDI"
+  },
+  {
+    "Network": "BURUNDI ONATEL MOB MOBILE - Telecel-Burundi Company [BDITL] ",
+    "Price per 1 MB": 29.3879,
+    "Country": "BURUNDI"
+  },
+  {
+    "Network": "BURUNDI VIETTEL MOBILE - Lumitel [BDIVG]",
+    "Price per 1 MB": 10.7326,
+    "Country": "BURUNDI"
+  },
+  {
+    "Network": "CAMBODIA MOBILE - CamGSM (MOBITEL) [KHMGM] ",
+    "Price per 1 MB": 0.0184,
+    "Country": "CAMBODIA"
+  },
+  {
+    "Network": "CAMBODIA MOBILE - Viattel Commit [KHMVT] ",
+    "Price per 1 MB": 0.8295,
+    "Country": "CAMBODIA"
+  },
+  {
+    "Network": "CAMEROON MTN MOBILE - (MTN) [CMRMT] ",
+    "Price per 1 MB": 0.02,
+    "Country": "CAMEROON"
+  },
+  {
+    "Network": "CANADA MOBILE - Bell Mobility [CANBM] ",
+    "Price per 1 MB": 0.0294,
+    "Country": "CANADA"
+  },
+  {
+    "Network": "CANADA MOBILE - Rogers Wireless [CANRW] ",
+    "Price per 1 MB": 0.0294,
+    "Country": "CANADA"
+  },
+  {
+    "Network": "CANADA MOBILE - Saskatel Canada [CANST] ",
+    "Price per 1 MB": 0.0302,
+    "Country": "CANADA"
+  },
+  {
+    "Network": "CANADA MOBILE - Telus [CANTS] ",
+    "Price per 1 MB": 0.0294,
+    "Country": "CANADA"
+  },
+  {
+    "Network": "CANADA MOBILE - Videotron [CANVT] ",
+    "Price per 1 MB": 0.0318,
+    "Country": "CANADA"
+  },
+  {
+    "Network": "CAPE VERDE MOBILE - (CVMOVEL) [CPVCV] ",
+    "Price per 1 MB": 0.0312,
+    "Country": "CAPE"
+  },
+  {
+    "Network": "CAPE VERDE T PLUS MOBILE - (T+) [CPVTM] ",
+    "Price per 1 MB": 0.7907,
+    "Country": "CAPE"
+  },
+  {
+    "Network": "CAYMAN I DIGICEL MOBILE - (Digicel) [JAMDC] ",
+    "Price per 1 MB": 0.0368,
+    "Country": "CAYMAN"
+  },
+  {
+    "Network": "CAYMAN I DIGICEL MOBILE - (Digicel) [JAMDC] ",
+    "Price per 1 MB": 0.0368,
+    "Country": "CAYMAN"
+  },
+  {
+    "Network": "CAYMAN ISLANDS MOBILE - (C & W) [CYMCW] ",
+    "Price per 1 MB": 0.1777,
+    "Country": "CAYMAN"
+  },
+  {
+    "Network": "CENT AFR REP ORANG MOBILE - Orange [CAF03] ",
+    "Price per 1 MB": 0.0239,
+    "Country": "CENT"
+  },
+  {
+    "Network": "CHAD MILICOM MOBILE - Millicom Chad (T Chad) [TCDML] ",
+    "Price per 1 MB": 0.073,
+    "Country": "CHAD"
+  },
+  {
+    "Network": "CHAD ZAIN MOBILE - CelTel Tchad SA [TCDCT] ",
+    "Price per 1 MB": 0.0218,
+    "Country": "CHAD"
+  },
+  {
+    "Network": "CHILE OTHER MOBILE - Entel [CHLMV] ",
+    "Price per 1 MB": 0.058,
+    "Country": "CHILE"
+  },
+  {
+    "Network": "CHILE OTHER MOBILE - Telefonica Movil de Chile [CHLTM] ",
+    "Price per 1 MB": 0.0659,
+    "Country": "CHILE"
+  },
+  {
+    "Network": "CHILE OTHER MOBILE - Telefonica Movil de Chile [CHLTM] ",
+    "Price per 1 MB": 0.0659,
+    "Country": "CHILE"
+  },
+  {
+    "Network": "CHINA MOBILE - China Mobile [CHNCT] ",
+    "Price per 1 MB": 0.0412,
+    "Country": "CHINA"
+  },
+  {
+    "Network": "CHINA MOBILE - China Mobile [CHNCT] ",
+    "Price per 1 MB": 0.0412,
+    "Country": "CHINA"
+  },
+  {
+    "Network": "CHINA UNICOM MOBILE - China Unicom [CHNCU] ",
+    "Price per 1 MB": 0.0205,
+    "Country": "CHINA"
+  },
+  {
+    "Network": "CHINA UNICOM MOBILE - China Unicom [CHNCU] ",
+    "Price per 1 MB": 0.0205,
+    "Country": "CHINA"
+  },
+  {
+    "Network": "COLOMBIA MOVISTAR MOBILE - Telefonica Moviles [COLTM] ",
+    "Price per 1 MB": 0.0672,
+    "Country": "COLOMBIA"
+  },
+  {
+    "Network": "COLOMBIA MOVISTAR MOBILE - Telefonica Moviles [COLTM] ",
+    "Price per 1 MB": 0.0672,
+    "Country": "COLOMBIA"
+  },
+  {
+    "Network": "COMOROS MOBILE - (SNPT) (HURI) [COMHR] ",
+    "Price per 1 MB": 34.0862,
+    "Country": "COMOROS"
+  },
+  {
+    "Network": "COMOROS MOBILE - TELMA S.A. [COMTM]",
+    "Price per 1 MB": 33.8743,
+    "Country": "COMOROS"
+  },
+  {
+    "Network": "CONGO MTN MOBILE - Libertis Telecom [COGLB] ",
+    "Price per 1 MB": 0.0234,
+    "Country": "CONGO"
+  },
+  {
+    "Network": "CONGO ZAIN MOBILE - CelTel [COGCT] ",
+    "Price per 1 MB": 0.015,
+    "Country": "CONGO"
+  },
+  {
+    "Network": "COSTA RICA CLARO - CLARO Costa Rica [CRICL] ",
+    "Price per 1 MB": 0.0407,
+    "Country": "COSTA"
+  },
+  {
+    "Network": "COSTA RICA MOBILE - (ICE) [CRICR] ",
+    "Price per 1 MB": 0.0205,
+    "Country": "COSTA"
+  },
+  {
+    "Network": "COSTA RICA TELEFO MOBILE - (Telefonica) [CRITC] ",
+    "Price per 1 MB": 0.0761,
+    "Country": "COSTA"
+  },
+  {
+    "Network": "COTE IVOIRE MTN MOBILE - (TELECEL) [CIVTL] ",
+    "Price per 1 MB": 0.02,
+    "Country": "COTE"
+  },
+  {
+    "Network": "CROATIA HT MOBILE - TMobile [HRVCN] ",
+    "Price per 1 MB": 0.0142,
+    "Country": "CROATIA"
+  },
+  {
+    "Network": "CROATIA OTHER MOBILE - Tele 2 [HRVT2] ",
+    "Price per 1 MB": 0.0142,
+    "Country": "CROATIA"
+  },
+  {
+    "Network": "CUBA - (C_Com) [CUB01] ",
+    "Price per 1 MB": 0.1819,
+    "Country": "CUBA"
+  },
+  {
+    "Network": "CYPRUS MTN MOBILE - MTN Cypro [CYPSC] ",
+    "Price per 1 MB": 0.0142,
+    "Country": "CYPRUS"
+  },
+  {
+    "Network": "CYPRUS VODAFONE MOBILE - CYTAGSM [CYPCT] ",
+    "Price per 1 MB": 0.0142,
+    "Country": "CYPRUS"
+  },
+  {
+    "Network": "CZECH REPUBLIC MOBILE - (Telefonica) [CZEET] ",
+    "Price per 1 MB": 0.0142,
+    "Country": "CZECH"
+  },
+  {
+    "Network": "CZECH T-MOBILE MOBILE - (T-Mobile) [CZERM] ",
+    "Price per 1 MB": 0.0142,
+    "Country": "CZECH"
+  },
+  {
+    "Network": "DENMARK TELENOR MOBILE - Telenor [DNKDM]",
+    "Price per 1 MB": 0.0142,
+    "Country": "DENMARK"
+  },
+  {
+    "Network": "DENMARK TELENOR MOBILE - Telenor [DNKDM]",
+    "Price per 1 MB": 0.0142,
+    "Country": "DENMARK"
+  },
+  {
+    "Network": "DENMARK TELIA MOBILE - (Telia) [DNKIA] ",
+    "Price per 1 MB": 0.0142,
+    "Country": "DENMARK"
+  },
+  {
+    "Network": "DENMARK TELIA MOBILE - (Telia) [DNKIA] ",
+    "Price per 1 MB": 0.0142,
+    "Country": "DENMARK"
+  },
+  {
+    "Network": "DENMARK TELIA MOBILE - (Telia) [DNKIA] ",
+    "Price per 1 MB": 0.0142,
+    "Country": "DENMARK"
+  },
+  {
+    "Network": "DJIBOUTI MOBILE - Djibouti Telecom SA (Evatis) [DJIDJ] ",
+    "Price per 1 MB": 63.2223,
+    "Country": "DJIBOUTI"
+  },
+  {
+    "Network": "DOMINICA DIGICEL MOBILE - Digicel [JAMDC] ",
+    "Price per 1 MB": 0.0368,
+    "Country": "DOMINICA"
+  },
+  {
+    "Network": "DOMINICA DIGICEL MOBILE - Digicel [JAMDC] ",
+    "Price per 1 MB": 0.0368,
+    "Country": "DOMINICA"
+  },
+  {
+    "Network": "DOMINICA MOBILE - (C & W) [DMACW] ",
+    "Price per 1 MB": 0.2531,
+    "Country": "DOMINICA"
+  },
+  {
+    "Network": "DOMINICAN REPUBLIC MOBILE - Claro [DOMCL] ",
+    "Price per 1 MB": 0.0373,
+    "Country": "DOMINICAN"
+  },
+  {
+    "Network": "DOMINICAN REPUBLIC MOBILE - Trilogy Dominicana [DOMAC] ",
+    "Price per 1 MB": 0.3552,
+    "Country": "DOMINICAN"
+  },
+  {
+    "Network": "DR CONGO AFRICELL MOBILE [CODAC] ",
+    "Price per 1 MB": 0.1236,
+    "Country": "CONGO"
+  },
+  {
+    "Network": "DR CONGO VODACOM MOBILE - Vodacom [CODVC] ",
+    "Price per 1 MB": 0.4263,
+    "Country": "CONGO"
+  },
+  {
+    "Network": "DR CONGO ZAIN MOBILE - Airtel (Celtel) [CODCT] ",
+    "Price per 1 MB": 0.0165,
+    "Country": "CONGO"
+  },
+  {
+    "Network": "EAST TIMOR MOBILE - Timor Telecom [TLSTL] ",
+    "Price per 1 MB": 33.3963,
+    "Country": "EAST"
+  },
+  {
+    "Network": "ECUADOR BELLSOUTH MOBILE - Telefonica Moviles [ECUOT] ",
+    "Price per 1 MB": 0.0748,
+    "Country": "ECUADOR"
+  },
+  {
+    "Network": "ECUADOR BELLSOUTH MOBILE - Telefonica Moviles [ECUOT] ",
+    "Price per 1 MB": 0.0748,
+    "Country": "ECUADOR"
+  },
+  {
+    "Network": "ECUADOR PORTA MOBILE - (Conecel) [ECUPG] ",
+    "Price per 1 MB": 0.0861,
+    "Country": "ECUADOR"
+  },
+  {
+    "Network": "EGYPT ETISALAT MOBILE - ETISALAT MISR - Egitto [EGYEM] ",
+    "Price per 1 MB": 0.1129,
+    "Country": "EGYPT"
+  },
+  {
+    "Network": "EGYPT MOBILE - (ECMS-MobiNil) [EGYAR] ",
+    "Price per 1 MB": 0.0362,
+    "Country": "EGYPT"
+  },
+  {
+    "Network": "EL SALVADOR PERS MOBILE - CTE Telecom Personal SA de CV [SLVTP] ",
+    "Price per 1 MB": 0.0362,
+    "Country": "EL SALVADOR"
+  },
+  {
+    "Network": "EL SALVADOR TELEFO MOBILE - Telefonica Movile El Salvador [SLVTS] ",
+    "Price per 1 MB": 0.0756,
+    "Country": "EL SALVADOR"
+  },
+  {
+    "Network": "EL SALVDOR DIGICEL MOBILE - DIGICEL [SLVDC] ",
+    "Price per 1 MB": 0.0677,
+    "Country": "EL SALVADOR"
+  },
+  {
+    "Network": "EQUATORIAL GUINEA - Green Com [GNQHT] ",
+    "Price per 1 MB": 0.3331,
+    "Country": "EQUATORIAL"
+  },
+  {
+    "Network": "ERITREA MOBILE PJSC (Eritel) [ERIER] ",
+    "Price per 1 MB": 40.0079,
+    "Country": "ERITREA"
+  },
+  {
+    "Network": "ESTONIA ELISA MOBILE - Radiolinja Eesti AS [ESTRE] ",
+    "Price per 1 MB": 0.0142,
+    "Country": "ESTONIA"
+  },
+  {
+    "Network": "ESTONIA EMT MOBILE - AS EMT (EMT GSM) [ESTEM] ",
+    "Price per 1 MB": 0.0142,
+    "Country": "ESTONIA"
+  },
+  {
+    "Network": "ESTONIA TELE2 MOBILE - (Tele2) [ESTRB] ",
+    "Price per 1 MB": 0.0142,
+    "Country": "ESTONIA"
+  },
+  {
+    "Network": "ETHIOPIA MOBILE - (ETMTN) [ETH01] ",
+    "Price per 1 MB": 0.6234,
+    "Country": "ETHIOPIA"
+  },
+  {
+    "Network": "FAEROE ISLANDS MOBILE - Faroese Telecom [FROFT] ",
+    "Price per 1 MB": 0.1977,
+    "Country": "FAEROE"
+  },
+  {
+    "Network": "FAEROE ISLANDS MOBILE - Vodafone [FROKA] ",
+    "Price per 1 MB": 29.8652,
+    "Country": "FAEROE"
+  },
+  {
+    "Network": "FIJI DIGICEL MOBILE - Digicel [FJIDP] ",
+    "Price per 1 MB": 0.0402,
+    "Country": "FIJI"
+  },
+  {
+    "Network": "FIJI MOBILE - Vodafone [FJIVF] ",
+    "Price per 1 MB": 21.5119,
+    "Country": "FIJI"
+  },
+  {
+    "Network": "FINLAND ELISA CORP MOBILE - (Elisa) [FINRL] ",
+    "Price per 1 MB": 19.7571,
+    "Country": "FINLAND"
+  },
+  {
+    "Network": "FINLAND ELISA CORP MOBILE - (Elisa) [FINRL] ",
+    "Price per 1 MB": 19.7571,
+    "Country": "FINLAND"
+  },
+  {
+    "Network": "FINLAND MOBILE - (DNA FINNET NETWORKS) [FIN2G] ",
+    "Price per 1 MB": 0.0142,
+    "Country": "FINLAND"
+  },
+  {
+    "Network": "FINLAND MOBILE - Alands Mobiltelefon Ab [FINAM] ",
+    "Price per 1 MB": 0.0142,
+    "Country": "FINLAND"
+  },
+  {
+    "Network": "FINLAND SONERA LTD MOBILE - Telia Sonera (Sonera) [FINTF] ",
+    "Price per 1 MB": 0.0142,
+    "Country": "FINLAND"
+  },
+  {
+    "Network": "FRANCE BOUYGUES MOBILE - (Bouygues) [FRAF3] ",
+    "Price per 1 MB": 0.0142,
+    "Country": "FRANCE"
+  },
+  {
+    "Network": "FRANCE BOUYGUES MOBILE - (Bouygues) [FRAF3] ",
+    "Price per 1 MB": 0.0142,
+    "Country": "FRANCE"
+  },
+  {
+    "Network": "FRANCE ORANGE MOBILE - (Orange) [FRAF1] ",
+    "Price per 1 MB": 0.0142,
+    "Country": "FRANCE"
+  },
+  {
+    "Network": "FRENCH GUIANA OUTR MOBILE [GUF01] ",
+    "Price per 1 MB": 0.0076,
+    "Country": "FRENCH"
+  },
+  {
+    "Network": "FRENCH POLYNESIA MOBILE - Tikiphone (VINI) [FRATK] ",
+    "Price per 1 MB": 0.1646,
+    "Country": "FRENCH"
+  },
+  {
+    "Network": "GABON MOBILE - Libertis [GAB01] ",
+    "Price per 1 MB": 0.0504,
+    "Country": "GABON"
+  },
+  {
+    "Network": "GABON ZAIN MOBILE - Zain [GABCT] ",
+    "Price per 1 MB": 0.015,
+    "Country": "GABON"
+  },
+  {
+    "Network": "GAMBIA AFRICELL MOBILE - Africell [GMBAC] ",
+    "Price per 1 MB": 0.1045,
+    "Country": "GAMBIA"
+  },
+  {
+    "Network": "GAMBIA GAMTEL MOBILE - Gamcel [GMB01] ",
+    "Price per 1 MB": 32.9666,
+    "Country": "GAMBIA"
+  },
+  {
+    "Network": "GEORGIA GEOCELL MOBILE - Geocell Limited [GEOGC] ",
+    "Price per 1 MB": 0.0504,
+    "Country": "GEORGIA"
+  },
+  {
+    "Network": "GEORGIA MOBILE - Mobitel [GEOMT] ",
+    "Price per 1 MB": 0.0441,
+    "Country": "GEORGIA"
+  },
+  {
+    "Network": "GERMANY T-MOBILE MOBILE - (T-Mobile) [DEUD1] ",
+    "Price per 1 MB": 0.0142,
+    "Country": "GERMANY"
+  },
+  {
+    "Network": "GERMANY TELEFONICA MOBILE - (O2) [DEUE2] ",
+    "Price per 1 MB": 0.0142,
+    "Country": "GERMANY"
+  },
+  {
+    "Network": "GERMANY TELEFONICA MOBILE - (O2) [DEUE2] ",
+    "Price per 1 MB": 0.0142,
+    "Country": "GERMANY"
+  },
+  {
+    "Network": "GERMANY TELEFONICA MOBILE - (O2) [DEUE2] ",
+    "Price per 1 MB": 0.0142,
+    "Country": "GERMANY"
+  },
+  {
+    "Network": "GHANA SPACEFON MOBILE - MTN [GHASC] ",
+    "Price per 1 MB": 0.0284,
+    "Country": "GHANA"
+  },
+  {
+    "Network": "GHANA VODAFONE MOBILE - (Ghana Telecom Mobile) [GHAGT] ",
+    "Price per 1 MB": 0.4224,
+    "Country": "GHANA"
+  },
+  {
+    "Network": "GIBRALTAR MOBILE - (Gibtel) [GIBGT] ",
+    "Price per 1 MB": 0.0134,
+    "Country": "GIBRALTAR"
+  },
+  {
+    "Network": "GREECE COSMOTE MOBILE - COSMOTE [GRCCO] ",
+    "Price per 1 MB": 0.0142,
+    "Country": "GREECE"
+  },
+  {
+    "Network": "GREECE WIND MOBILE - WIND HELLAS (TELESTET) [GRCSH] ",
+    "Price per 1 MB": 0.0142,
+    "Country": "GREECE"
+  },
+  {
+    "Network": "GREECE WIND MOBILE - WIND HELLAS (TELESTET) [GRCSH] ",
+    "Price per 1 MB": 0.0142,
+    "Country": "GREECE"
+  },
+  {
+    "Network": "GREENLAND - Tele Greenland A/S [GRLTG] ",
+    "Price per 1 MB": 0.0402,
+    "Country": "GREENLAND"
+  },
+  {
+    "Network": "GRENADA DIGICEL MOBILE - Digicel [JAMDC] ",
+    "Price per 1 MB": 0.0368,
+    "Country": "GRENADA"
+  },
+  {
+    "Network": "GRENADA DIGICEL MOBILE - Digicel [JAMDC] ",
+    "Price per 1 MB": 0.0368,
+    "Country": "GRENADA"
+  },
+  {
+    "Network": "GRENADA MOBILE - (C & W) [GRDCW] ",
+    "Price per 1 MB": 0.1777,
+    "Country": "GRENADA"
+  },
+  {
+    "Network": "GUADELOUPE/ST. BARTHS/ST. MARTIN DIGICEL MOBILE - Digicel [FRAF4] ",
+    "Price per 1 MB": 0.0139,
+    "Country": "GUADELOUPE/ST. BARTHS/ST. MARTIN"
+  },
+  {
+    "Network": "GUADELOUPE/ST. BARTHS/ST. MARTIN MOBILE - Dauphin Telecom [GLPDT] ",
+    "Price per 1 MB": 0.1982,
+    "Country": "GUADELOUPE/ST. BARTHS/ST. MARTIN"
+  },
+  {
+    "Network": "GUAM - DOMOCOMO Pacific [GUMHT] ",
+    "Price per 1 MB": 43.3419,
+    "Country": "GUAM"
+  },
+  {
+    "Network": "GUAM - DOMOCOMO Pacific [GUMHT] ",
+    "Price per 1 MB": 43.3419,
+    "Country": "GUAM"
+  },
+  {
+    "Network": "GUAM PULSE MOBILE - Pulse [USAPU] ",
+    "Price per 1 MB": 43.6994,
+    "Country": "GUAM"
+  },
+  {
+    "Network": "GUATEMALA COMCEL MOBILE - COMCEL [GTMCM] ",
+    "Price per 1 MB": 0.0184,
+    "Country": "GUATEMALA"
+  },
+  {
+    "Network": "GUATEMALA MOVISTAR MOBILE - Telefonica Movile de Guatemala [GTMTG] ",
+    "Price per 1 MB": 0.357,
+    "Country": "GUATEMALA"
+  },
+  {
+    "Network": "GUATEMALA SERCOM MOBILE - SERCOM S.A. [GTMSC] ",
+    "Price per 1 MB": 0.0373,
+    "Country": "GUATEMALA"
+  },
+  {
+    "Network": "GUINEA BISSAU MTN MOBILE - Spicetel (MTN) [GNBSB] ",
+    "Price per 1 MB": 0.0239,
+    "Country": "GUINEA"
+  },
+  {
+    "Network": "GUINEA REP MTN MOBILE - Areeba (MTN) [GINAG] ",
+    "Price per 1 MB": 0.0263,
+    "Country": "GUINEA"
+  },
+  {
+    "Network": "GUYANA DIGICEL MOBILE - Digicel Guyana [GUYUM] ",
+    "Price per 1 MB": 0.3554,
+    "Country": "GUYANA"
+  },
+  {
+    "Network": "GUYANA MOBILE - Guyana Telephone & Telegraph [GUYGT] ",
+    "Price per 1 MB": 0.1068,
+    "Country": "GUYANA"
+  },
+  {
+    "Network": "HAITI DIGICEL MOBILE - Digicel Mossel [JAMDC] ",
+    "Price per 1 MB": 0.0368,
+    "Country": "HAITI"
+  },
+  {
+    "Network": "HAITI NATCOM MOBILE - Natcom [HTIHT] ",
+    "Price per 1 MB": 0.1058,
+    "Country": "HAITI"
+  },
+  {
+    "Network": "HONDURAS CLARO MOBILE - Sercom [HNDME] ",
+    "Price per 1 MB": 0.0378,
+    "Country": "HONDURAS"
+  },
+  {
+    "Network": "HONDURAS CLARO MOBILE - Sercom [HNDME] ",
+    "Price per 1 MB": 0.0378,
+    "Country": "HONDURAS"
+  },
+  {
+    "Network": "HONDURAS TIGO MOBILE - (CELTEL) [HND02] ",
+    "Price per 1 MB": 0.0179,
+    "Country": "HONDURAS"
+  },
+  {
+    "Network": "HONG KONG MOBILE - CSL Hong Kong Limited [HKGTC] ",
+    "Price per 1 MB": 0.0457,
+    "Country": "HONG"
+  },
+  {
+    "Network": "HONG KONG MOBILE - SmarTone Mobile Comms. Ltd. [HKGSM] ",
+    "Price per 1 MB": 0.1247,
+    "Country": "HONG"
+  },
+  {
+    "Network": "HUNGARY PANNON MOBILE - Pannon [HUNH1] ",
+    "Price per 1 MB": 0.0142,
+    "Country": "HUNGARY"
+  },
+  {
+    "Network": "HUNGARY WESTEL MOBILE - Tmobile [HUNH2] ",
+    "Price per 1 MB": 0.0142,
+    "Country": "HUNGARY"
+  },
+  {
+    "Network": "ICELAND MOBILE - IMC Island ehf (Viking Wireless) [ISLVW] ",
+    "Price per 1 MB": 0.031,
+    "Country": "ICELAND"
+  },
+  {
+    "Network": "ICELAND MOBILE - Nova [ISLNO] ",
+    "Price per 1 MB": 0.0139,
+    "Country": "ICELAND"
+  },
+  {
+    "Network": "ICELAND MOBILE - Siminn (EX Iceland Telecom Ltd (LANDSSIMINN) [ISLPS] ",
+    "Price per 1 MB": 0.0081,
+    "Country": "ICELAND"
+  },
+  {
+    "Network": "INDIA BSNL MOBILE - BSNL [INDWB] ",
+    "Price per 1 MB": 18.6409,
+    "Country": "INDIA"
+  },
+  {
+    "Network": "INDIA OTHER MOBILE - Bharti Airtel - Andhra Pradesh [INDJH] ",
+    "Price per 1 MB": 0.0504,
+    "Country": "INDIA"
+  },
+  {
+    "Network": "INDIA OTHER MOBILE - Bharti Airtel - Chennai [INDSC] ",
+    "Price per 1 MB": 0.0491,
+    "Country": "INDIA"
+  },
+  {
+    "Network": "INDIA OTHER MOBILE - Bharti AirTel - Delhi [INDAT] ",
+    "Price per 1 MB": 0.0491,
+    "Country": "INDIA"
+  },
+  {
+    "Network": "INDIA OTHER MOBILE - Bharti AirTel - Gujarat [INDA3] ",
+    "Price per 1 MB": 0.0491,
+    "Country": "INDIA"
+  },
+  {
+    "Network": "INDIA OTHER MOBILE - Bharti AirTel - Haryana [INDA5] ",
+    "Price per 1 MB": 0.0491,
+    "Country": "INDIA"
+  },
+  {
+    "Network": "INDIA OTHER MOBILE - Bharti Airtel - Himachal Pradesh Circle [INDBL] ",
+    "Price per 1 MB": 0.0504,
+    "Country": "INDIA"
+  },
+  {
+    "Network": "INDIA OTHER MOBILE - Bharti Airtel - Karnataka [INDJB] ",
+    "Price per 1 MB": 0.0496,
+    "Country": "INDIA"
+  },
+  {
+    "Network": "INDIA OTHER MOBILE - Bharti AirTel - Kerala [INDA7] ",
+    "Price per 1 MB": 0.0491,
+    "Country": "INDIA"
+  },
+  {
+    "Network": "INDIA OTHER MOBILE - Bharti AirTel - Kolkata [INDMT] ",
+    "Price per 1 MB": 0.0491,
+    "Country": "INDIA"
+  },
+  {
+    "Network": "INDIA OTHER MOBILE - Bharti AirTel - Madhya Pradesh [INDA8] ",
+    "Price per 1 MB": 0.0496,
+    "Country": "INDIA"
+  },
+  {
+    "Network": "INDIA OTHER MOBILE - Bharti AirTel - Maharashtra [INDA2] ",
+    "Price per 1 MB": 0.0491,
+    "Country": "INDIA"
+  },
+  {
+    "Network": "INDIA OTHER MOBILE - Bharti AirTel - Punjab [INDA9] ",
+    "Price per 1 MB": 0.0504,
+    "Country": "INDIA"
+  },
+  {
+    "Network": "INDIA OTHER MOBILE - Bharti AirTel - Tamilnadu [INDA4] ",
+    "Price per 1 MB": 0.0491,
+    "Country": "INDIA"
+  },
+  {
+    "Network": "INDIA OTHER MOBILE - Bharti AirTel - Uttar Pradesh (West) [INDA6] ",
+    "Price per 1 MB": 0.0496,
+    "Country": "INDIA"
+  },
+  {
+    "Network": "INDIA OTHER MOBILE - Bharti Airtel [IND10] ",
+    "Price per 1 MB": 0.0491,
+    "Country": "INDIA"
+  },
+  {
+    "Network": "INDIA OTHER MOBILE - Bharti Airtel [IND11] ",
+    "Price per 1 MB": 0.0491,
+    "Country": "INDIA"
+  },
+  {
+    "Network": "INDIA OTHER MOBILE - Bharti Airtel [IND12] ",
+    "Price per 1 MB": 0.0496,
+    "Country": "INDIA"
+  },
+  {
+    "Network": "INDIA OTHER MOBILE - Bharti Airtel [IND14] ",
+    "Price per 1 MB": 0.0496,
+    "Country": "INDIA"
+  },
+  {
+    "Network": "INDIA OTHER MOBILE - Bharti Airtel [IND15] ",
+    "Price per 1 MB": 0.0504,
+    "Country": "INDIA"
+  },
+  {
+    "Network": "INDIA OTHER MOBILE - Bharti Airtel [IND16] ",
+    "Price per 1 MB": 0.0515,
+    "Country": "INDIA"
+  },
+  {
+    "Network": "INDIA OTHER MOBILE - Bharti Airtel [IND16] ",
+    "Price per 1 MB": 0.0515,
+    "Country": "INDIA"
+  },
+  {
+    "Network": "INDIA OTHER MOBILE - Bharti Hexacom - Rajastan e North East [INDH1] ",
+    "Price per 1 MB": 0.0491,
+    "Country": "INDIA"
+  },
+  {
+    "Network": "INDIA OTHER MOBILE - BhartiAirTel - Mumbai Metro [INDA1] ",
+    "Price per 1 MB": 0.0491,
+    "Country": "INDIA"
+  },
+  {
+    "Network": "INDIA VODAFN SOUTH MOBILE - Vodafone Essar - South [INDHM] ",
+    "Price per 1 MB": 1.9134,
+    "Country": "INDIA"
+  },
+  {
+    "Network": "INDIA VODAFN SOUTH MOBILE - Vodafone Essar - South [INDHM] ",
+    "Price per 1 MB": 1.9134,
+    "Country": "INDIA"
+  },
+  {
+    "Network": "INDIA VODAFN SOUTH MOBILE - Vodafone Essar - South [INDHM] ",
+    "Price per 1 MB": 1.9134,
+    "Country": "INDIA"
+  },
+  {
+    "Network": "INDIA VODAFN SOUTH MOBILE - Vodafone Essar - South [INDHM] ",
+    "Price per 1 MB": 1.9134,
+    "Country": "INDIA"
+  },
+  {
+    "Network": "INDIA VODAFN SOUTH MOBILE - Vodafone Essar - South [INDHM] ",
+    "Price per 1 MB": 1.9134,
+    "Country": "INDIA"
+  },
+  {
+    "Network": "INDIA VODAFN SOUTH MOBILE - Vodafone Essar - South [INDHM] ",
+    "Price per 1 MB": 1.9134,
+    "Country": "INDIA"
+  },
+  {
+    "Network": "INDIA VODAFN SOUTH MOBILE - Vodafone Essar - South [INDHM] ",
+    "Price per 1 MB": 1.9134,
+    "Country": "INDIA"
+  },
+  {
+    "Network": "INDIA VODAFN SOUTH MOBILE - Vodafone Essar - South [INDHM] ",
+    "Price per 1 MB": 1.9134,
+    "Country": "INDIA"
+  },
+  {
+    "Network": "INDIA VODAFN SOUTH MOBILE - Vodafone Essar - South [INDHM] ",
+    "Price per 1 MB": 1.9134,
+    "Country": "INDIA"
+  },
+  {
+    "Network": "INDIA VODAFN SOUTH MOBILE - Vodafone Essar - South [INDHM] ",
+    "Price per 1 MB": 1.9134,
+    "Country": "INDIA"
+  },
+  {
+    "Network": "INDIA VODAFN SOUTH MOBILE - Vodafone Essar - South [INDHM] ",
+    "Price per 1 MB": 1.9134,
+    "Country": "INDIA"
+  },
+  {
+    "Network": "INDONESIA INDOSAT MOBILE - INDOSAT (ex Satelindo) [IDNSL] ",
+    "Price per 1 MB": 0.1349,
+    "Country": "INDONESIA"
+  },
+  {
+    "Network": "INDONESIA TELKOM MOBILE - (TELKOMSEL) [IDNTS] ",
+    "Price per 1 MB": 0.0402,
+    "Country": "INDONESIA"
+  },
+  {
+    "Network": "IRAN MOBILE - MCI (ex TCI) [IRN11] ",
+    "Price per 1 MB": 0.0373,
+    "Country": "IRAN"
+  },
+  {
+    "Network": "IRAN MOBILE - RighTel [IRNTT] ",
+    "Price per 1 MB": 1.6139,
+    "Country": "IRAN"
+  },
+  {
+    "Network": "IRAN MTN MOBILE - IRANCELL (MTN) [IRNMI] ",
+    "Price per 1 MB": 0.0475,
+    "Country": "IRAN"
+  },
+  {
+    "Network": "IRAQ ASIACELL MOBILE - Asia Cell Company for Telecommunication [IRQAC] ",
+    "Price per 1 MB": 0.5124,
+    "Country": "IRAQ"
+  },
+  {
+    "Network": "IRELAND METEOR MOBILE - METEOR [IRLME] ",
+    "Price per 1 MB": 0.0142,
+    "Country": "IRELAND"
+  },
+  {
+    "Network": "IRELAND MOBILE - Three [IRLH3/IRLDF] ",
+    "Price per 1 MB": 0.0142,
+    "Country": "IRELAND"
+  },
+  {
+    "Network": "IRELAND MOBILE - Three [IRLH3/IRLDF] ",
+    "Price per 1 MB": 0.0142,
+    "Country": "IRELAND"
+  },
+  {
+    "Network": "ISRAEL MOBILE - Cellcom Israel Ltd [ISRCL] ",
+    "Price per 1 MB": 0.1517,
+    "Country": "ISRAEL"
+  },
+  {
+    "Network": "ISRAEL MOBILE - Pelephone [ISRPL] ",
+    "Price per 1 MB": 0.0095,
+    "Country": "ISRAEL"
+  },
+  {
+    "Network": "JAMAICA DIGICEL MOBILE - (Digicel Mossel) [JAMDC] ",
+    "Price per 1 MB": 0.0368,
+    "Country": "JAMAICA"
+  },
+  {
+    "Network": "JAMAICA DIGICEL MOBILE - (Digicel Mossel) [JAMDC] ",
+    "Price per 1 MB": 0.0368,
+    "Country": "JAMAICA"
+  },
+  {
+    "Network": "JAMAICA OTHER MOBILE - (C & W) [JAMCW] ",
+    "Price per 1 MB": 0.2502,
+    "Country": "JAMAICA"
+  },
+  {
+    "Network": "JAMAICA OTHER MOBILE - (C & W) [JAMCW] ",
+    "Price per 1 MB": 0.2502,
+    "Country": "JAMAICA"
+  },
+  {
+    "Network": "JAPAN MOBILE - NTT DoCoMo [JPNDO] ",
+    "Price per 1 MB": 0.0441,
+    "Country": "JAPAN"
+  },
+  {
+    "Network": "JAPAN MOBILE - Softbank [JPNJP] ",
+    "Price per 1 MB": 0.0347,
+    "Country": "JAPAN"
+  },
+  {
+    "Network": "JORDAN MOBILE - (UMC) [JORUM] ",
+    "Price per 1 MB": 0.01,
+    "Country": "JORDAN"
+  },
+  {
+    "Network": "JORDAN ORANGE MOBILE - (Orange) [JORMC] ",
+    "Price per 1 MB": 0.0134,
+    "Country": "JORDAN"
+  },
+  {
+    "Network": "JORDAN ZAIN MOBILE - Zain [JORFL] ",
+    "Price per 1 MB": 0.062,
+    "Country": "JORDAN"
+  },
+  {
+    "Network": "KAZAKHSTAN KARTEL MOBILE - KaR-TeL LLP (K-MOBILE) [KAZKT] ",
+    "Price per 1 MB": 0.0368,
+    "Country": "KAZAKHSTAN"
+  },
+  {
+    "Network": "KAZAKHSTAN MOBILE - Tele2 [KAZ77] ",
+    "Price per 1 MB": 0.0076,
+    "Country": "KAZAKHSTAN"
+  },
+  {
+    "Network": "KENYA SAFARICOM MOBILE - Safaricom Limited [KENSA] ",
+    "Price per 1 MB": 0.8017,
+    "Country": "KENYA"
+  },
+  {
+    "Network": "KENYA ZAIN MOBILE - Zain [KENKC] ",
+    "Price per 1 MB": 0.015,
+    "Country": "KENYA"
+  },
+  {
+    "Network": "KIRIBATI MOBILE - Amalg Telecom [KIRKL] ",
+    "Price per 1 MB": 29.463,
+    "Country": "KIRIBATI"
+  },
+  {
+    "Network": "KOREA SK TELINK MOBILE - SK Telecom [KORSK] ",
+    "Price per 1 MB": 0.0244,
+    "Country": "KOREA"
+  },
+  {
+    "Network": "KOREA SOUTH MOBILE - (KT ICOM) [KORKF] ",
+    "Price per 1 MB": 0.0436,
+    "Country": "KOREA"
+  },
+  {
+    "Network": "KOREA SOUTH MOBILE - (KT ICOM) [KORKF] ",
+    "Price per 1 MB": 0.0436,
+    "Country": "KOREA"
+  },
+  {
+    "Network": "KUWAIT MOBILE - KTC (Viva) [KWTKT] ",
+    "Price per 1 MB": 0.0732,
+    "Country": "KUWAIT"
+  },
+  {
+    "Network": "KUWAIT ZAIN MOBILE - (MTCNet) [KWTMT] ",
+    "Price per 1 MB": 0.0184,
+    "Country": "KUWAIT"
+  },
+  {
+    "Network": "KYRGYZSTAN BIMOKOM MOBILE - Alfa Telecom (MegaCom) [KGZMC] ",
+    "Price per 1 MB": 0.0412,
+    "Country": "KYRGYZSTAN"
+  },
+  {
+    "Network": "KYRGYZSTAN NURTELE MOBILE - NURTelecom [KGZNT] ",
+    "Price per 1 MB": 36.5124,
+    "Country": "KYRGYZSTAN"
+  },
+  {
+    "Network": "LAOS - Lao Telecoms Co (LTC) [LAOTC] ",
+    "Price per 1 MB": 0.0827,
+    "Country": "LAOS"
+  },
+  {
+    "Network": "LAOS - Millicom Lao Co Ltd (Beeline) [LAOTL] ",
+    "Price per 1 MB": 36.6295,
+    "Country": "LAOS"
+  },
+  {
+    "Network": "LAOS - STL Star Telecom comp. Ltd [LAOLA] ",
+    "Price per 1 MB": 0.1,
+    "Country": "LAOS"
+  },
+  {
+    "Network": "LATVIA LMT MOBILE - (LMT) [LVALM] ",
+    "Price per 1 MB": 0.0142,
+    "Country": "LATVIA"
+  },
+  {
+    "Network": "LATVIA TELE2 MOBILE - TELE2 [LVABC] ",
+    "Price per 1 MB": 0.0142,
+    "Country": "LATVIA"
+  },
+  {
+    "Network": "LEBANON - MIC 1 (Alfa) [LBNFL] ",
+    "Price per 1 MB": 1.6139,
+    "Country": "LEBANON"
+  },
+  {
+    "Network": "LEBANON - MIC 2 (Touch) [LBNLC] ",
+    "Price per 1 MB": 1.5524,
+    "Country": "LEBANON"
+  },
+  {
+    "Network": "LESOTHO ECONET MOBILE [LSOET] ",
+    "Price per 1 MB": 14.3084,
+    "Country": "LESOTHO"
+  },
+  {
+    "Network": "LIBERIA MTN MOBILE - Lonestar (MTN) [LBRLC] ",
+    "Price per 1 MB": 0.0244,
+    "Country": "LIBERIA"
+  },
+  {
+    "Network": "LIBYA MOBILE - Libyana Mobile [LBYLM] ",
+    "Price per 1 MB": 1.5797,
+    "Country": "LIBYA"
+  },
+  {
+    "Network": "LIECHTENSTEIN MOBILE - Mobilkom [LIEMK] ",
+    "Price per 1 MB": 0.0186,
+    "Country": "LIECHTENSTEIN"
+  },
+  {
+    "Network": "LIECHTENSTEIN MOBILE - Orange [LIEVE] ",
+    "Price per 1 MB": 0.0179,
+    "Country": "LIECHTENSTEIN"
+  },
+  {
+    "Network": "LITHUANIA OMNITEL MOBILE - OMNITEL [LTUOM] ",
+    "Price per 1 MB": 0.0302,
+    "Country": "LITHUANIA"
+  },
+  {
+    "Network": "LITHUANIA TELE2 MOBILE - UAB (TELE2) [LTU03] ",
+    "Price per 1 MB": 0.0142,
+    "Country": "LITHUANIA"
+  },
+  {
+    "Network": "LUXEMBOURG MOBILE - Tango S.A [LUXTG] ",
+    "Price per 1 MB": 0.0142,
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Network": "LUXEMBOURG VOX MOBILE - (Orange) [LUXVM] ",
+    "Price per 1 MB": 0.0142,
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Network": "MACAO MOBILE - CTM [MACCT] ",
+    "Price per 1 MB": 0.0278,
+    "Country": "MACAO"
+  },
+  {
+    "Network": "MACEDONIA MOBILE - COSMOFON [MKDCC] ",
+    "Price per 1 MB": 42.5266,
+    "Country": "MACEDONIA"
+  },
+  {
+    "Network": "MACEDONIA TMOBILE MOBILE - T-Mobile [MKDMM] ",
+    "Price per 1 MB": 39.9564,
+    "Country": "MACEDONIA"
+  },
+  {
+    "Network": "MACEDONIA VIP MOBILE - Vip operator [MKDNO] ",
+    "Price per 1 MB": 39.8913,
+    "Country": "MACEDONIA"
+  },
+  {
+    "Network": "MADAGASCA CELTEL M MOBILE - Airtel (ZAIN) [MDGCO] ",
+    "Price per 1 MB": 0.1785,
+    "Country": "MADAGASCA"
+  },
+  {
+    "Network": "MADAGASCAR ORANGE MOBILE - Orange [MDGAN] ",
+    "Price per 1 MB": 47.7894,
+    "Country": "MADAGASCAR"
+  },
+  {
+    "Network": "MADAGASCAR OTHER MOBILE - Telma Mobile [MDGTM] ",
+    "Price per 1 MB": 3.1671,
+    "Country": "MADAGASCAR"
+  },
+  {
+    "Network": "MALAWI MOBILE - Telekom Network Malawi [MWICP] ",
+    "Price per 1 MB": 4.0464,
+    "Country": "MALAWI"
+  },
+  {
+    "Network": "MALAWI ZAIN MOBILE - CelTel - ZAIN [MWICT] ",
+    "Price per 1 MB": 0.0194,
+    "Country": "MALAWI"
+  },
+  {
+    "Network": "MALAYSIA DIGI MOBILE - Digi Telecommunications Sdn Bhd [MYSMT] ",
+    "Price per 1 MB": 0.1215,
+    "Country": "MALAYSIA"
+  },
+  {
+    "Network": "MALAYSIA MAXIS MOBILE - MMSSB [MYSBC] ",
+    "Price per 1 MB": 0.0396,
+    "Country": "MALAYSIA"
+  },
+  {
+    "Network": "MALI IKATEL MOBILE - Malitel [MLI01] ",
+    "Price per 1 MB": 26.5416,
+    "Country": "MALI"
+  },
+  {
+    "Network": "MALTA OTHER MOBILE - (GO mobile) [MLTGO] ",
+    "Price per 1 MB": 0.0142,
+    "Country": "MALTA"
+  },
+  {
+    "Network": "MALTA OTHER MOBILE - Melita [MLTMM] ",
+    "Price per 1 MB": 0.0142,
+    "Country": "MALTA"
+  },
+  {
+    "Network": "MAURITANIA CHINGUI MOBILE - Chinguitel [MRTCH] ",
+    "Price per 1 MB": 53.0087,
+    "Country": "MAURITANIA"
+  },
+  {
+    "Network": "MAURITANIA MTEL-M MOBILE - MAURITEL MOBILES [MRTMM] ",
+    "Price per 1 MB": 0.069,
+    "Country": "MAURITANIA"
+  },
+  {
+    "Network": "MAURITIUS EMTEL MOBILE - Emtel Ltd [MUSEM] ",
+    "Price per 1 MB": 0.0457,
+    "Country": "MAURITIUS"
+  },
+  {
+    "Network": "MAURITIUS MTML MOBILE - MTML [MUSMT]",
+    "Price per 1 MB": 27.4898,
+    "Country": "MAURITIUS"
+  },
+  {
+    "Network": "MAURITIUS ORANGE MOBILE - Cellplus Mobile (Orange) [MUSCP] ",
+    "Price per 1 MB": 0.0995,
+    "Country": "MAURITIUS"
+  },
+  {
+    "Network": "MEXICO MOBILE - Movistar [MEXMS] ",
+    "Price per 1 MB": 0.0761,
+    "Country": "MEXICO"
+  },
+  {
+    "Network": "MEXICO MOBILE - Movistar [MEXMS] ",
+    "Price per 1 MB": 0.0761,
+    "Country": "MEXICO"
+  },
+  {
+    "Network": "MEXICO MOBILE - Telcel [MEXTL] ",
+    "Price per 1 MB": 0.0436,
+    "Country": "MEXICO"
+  },
+  {
+    "Network": "MEXICO MOBILE - Telcel [MEXTL] ",
+    "Price per 1 MB": 0.0436,
+    "Country": "MEXICO"
+  },
+  {
+    "Network": "MOLDOVA MOLDCELL MOBILE - Moldcell SA [MDAMC] ",
+    "Price per 1 MB": 0.0504,
+    "Country": "MOLDOVA"
+  },
+  {
+    "Network": "MOLDOVA ORANGE MOBILE - (Orange) [MDAVX] ",
+    "Price per 1 MB": 0.0357,
+    "Country": "MOLDOVA"
+  },
+  {
+    "Network": "Monaco - Monaco Telecom [MCOM2] ",
+    "Price per 1 MB": 0.4016,
+    "Country": "Monaco"
+  },
+  {
+    "Network": "MONACO KOSOVO MOBILE - Monaco Telecom [MCOM1] ",
+    "Price per 1 MB": 21.2633,
+    "Country": "MONACO"
+  },
+  {
+    "Network": "MONGOLIA MOBILE - MobiCom [MNGMC] ",
+    "Price per 1 MB": 0.0386,
+    "Country": "MONGOLIA"
+  },
+  {
+    "Network": "MONGOLIA MOBILE - SkyTel [MNGSK]",
+    "Price per 1 MB": 0.0541,
+    "Country": "MONGOLIA"
+  },
+  {
+    "Network": "MONGOLIA MOBILE - Unitel [MNGMN] ",
+    "Price per 1 MB": 0.0189,
+    "Country": "MONGOLIA"
+  },
+  {
+    "Network": "MONTENEGRO MOBILE - T-Mobile [MNETM] ",
+    "Price per 1 MB": 0.0795,
+    "Country": "MONTENEGRO"
+  },
+  {
+    "Network": "MONTENEGRO PROMONT MOBILE - Telenor [MNEPM] ",
+    "Price per 1 MB": 0.0402,
+    "Country": "MONTENEGRO"
+  },
+  {
+    "Network": "MONTSERRAT - (C & W) [MSRCW] ",
+    "Price per 1 MB": 0.1777,
+    "Country": "MONTSERRAT"
+  },
+  {
+    "Network": "MONTSERRAT - (C & W) [MSRCW] ",
+    "Price per 1 MB": 0.1777,
+    "Country": "MONTSERRAT"
+  },
+  {
+    "Network": "MOROCC MEDITELECOM [MARMT] ",
+    "Price per 1 MB": 0.0257,
+    "Country": "MOROCCO"
+  },
+  {
+    "Network": "MOROCCO OTHER MOBILE - (IAM) [MARM1] ",
+    "Price per 1 MB": 0.3132,
+    "Country": "MOROCCO"
+  },
+  {
+    "Network": "MOZAMBIQUE VODACOM MOBILE - (Vodacom) [MOZVC] ",
+    "Price per 1 MB": 0.3315,
+    "Country": "MOZAMBIQUE"
+  },
+  {
+    "Network": "MYANMAR - MPT GSM Network [MMRPT] ",
+    "Price per 1 MB": 0.0116,
+    "Country": "MYANMAR"
+  },
+  {
+    "Network": "MYANMAR - MyTel Mobile [MMRVG]",
+    "Price per 1 MB": 38.5791,
+    "Country": "MYANMAR"
+  },
+  {
+    "Network": "NAMIBIA LEO MOBILE - PowerCom (Cell one) [NAM03] ",
+    "Price per 1 MB": 0.1281,
+    "Country": "NAMIBIA"
+  },
+  {
+    "Network": "NAMIBIA MOBILE - MTC [NAM01] ",
+    "Price per 1 MB": 3.1681,
+    "Country": "NAMIBIA"
+  },
+  {
+    "Network": "NEPAL NT MOBILE - (Nepal Mobile) [NPLNM] ",
+    "Price per 1 MB": 41.9837,
+    "Country": "NEPAL"
+  },
+  {
+    "Network": "NETHERLANDS ANTILLES DIGICEL MOBILE - (Digicel Mossel) [ANTCT] ",
+    "Price per 1 MB": 0.3554,
+    "Country": "NETHERLANDS"
+  },
+  {
+    "Network": "NETHERLANDS ANTILLES MOBILE - Setel NV (UTS Wireless Curacao) [ANTUT] ",
+    "Price per 1 MB": 0.058,
+    "Country": "NETHERLANDS"
+  },
+  {
+    "Network": "NETHERLANDS KPN-M MOBILE - KPN Mobile [NLDPT] ",
+    "Price per 1 MB": 0.0142,
+    "Country": "NETHERLANDS"
+  },
+  {
+    "Network": "NETHERLANDS T-MOBILE MOBILE - T-Mobile [NLDPN] ",
+    "Price per 1 MB": 0.0142,
+    "Country": "NETHERLANDS"
+  },
+  {
+    "Network": "NEW CALEDONIA - OPT (Mobilis) [NCLPT] ",
+    "Price per 1 MB": 26.6994,
+    "Country": "NEW"
+  },
+  {
+    "Network": "NEW ZEALAND MOBILE - Spark New Zealand [NZLTM] ",
+    "Price per 1 MB": 0.0738,
+    "Country": "NEW"
+  },
+  {
+    "Network": "NEW ZEALAND MOBILE - Spark New Zealand [NZLTM] ",
+    "Price per 1 MB": 0.0738,
+    "Country": "NEW"
+  },
+  {
+    "Network": "NEW ZEALAND VODA MOBILE - Vodafone [NZLBS] ",
+    "Price per 1 MB": 0.1507,
+    "Country": "NEW"
+  },
+  {
+    "Network": "NICARAGUA MOBILE - ENITEL (CLARO) [NICEN] ",
+    "Price per 1 MB": 0.0373,
+    "Country": "NICARAGUA"
+  },
+  {
+    "Network": "NICARAGUA TELEFON MOBILE - Telefonica Celular de Nicaragua [NICMS] ",
+    "Price per 1 MB": 0.0659,
+    "Country": "NICARAGUA"
+  },
+  {
+    "Network": "NICARAGUA TELEFON MOBILE - Telefonica Celular de Nicaragua [NICMS] ",
+    "Price per 1 MB": 0.0659,
+    "Country": "NICARAGUA"
+  },
+  {
+    "Network": "NIGER ZAIN MOBILE - Airtel/Zain/Celtel [NERCT] ",
+    "Price per 1 MB": 0.0184,
+    "Country": "NIGER"
+  },
+  {
+    "Network": "NIGERIA MTN MOBILE - MTN [NGAMN] ",
+    "Price per 1 MB": 0.0328,
+    "Country": "NIGERIA"
+  },
+  {
+    "Network": "NIGERIA ZAIN MOBILE - Airtel [NGAET] ",
+    "Price per 1 MB": 0.015,
+    "Country": "NIGERIA"
+  },
+  {
+    "Network": "NORWAY MOBILE - Telia Norway [NORNC] ",
+    "Price per 1 MB": 0.0116,
+    "Country": "NORWAY"
+  },
+  {
+    "Network": "NORWAY TELENOR-M MOBILE - Telenor Mobil [NORTM] ",
+    "Price per 1 MB": 0.0121,
+    "Country": "NORWAY"
+  },
+  {
+    "Network": "OMAN MOBILE - (OMAN MOBILE) [OMNGT] ",
+    "Price per 1 MB": 0.1231,
+    "Country": "OMAN"
+  },
+  {
+    "Network": "PAKISTAN JAZZ - (ex Mobilink) [PAKMK] ",
+    "Price per 1 MB": 23.0507,
+    "Country": "PAKISTAN"
+  },
+  {
+    "Network": "PAKISTAN JAZZ - (ex Warid) [PAKWA] ",
+    "Price per 1 MB": 0.0559,
+    "Country": "PAKISTAN"
+  },
+  {
+    "Network": "PAKISTAN MOBILE - Pak Telecom Mobile Ltd (Ufone) [PAKUF] ",
+    "Price per 1 MB": 0.174,
+    "Country": "PAKISTAN"
+  },
+  {
+    "Network": "PALESTINE MOBILE - Jawwal - (Palestine Telecommunications Co) [PSEJE] ",
+    "Price per 1 MB": 47.8805,
+    "Country": "PALESTINE"
+  },
+  {
+    "Network": "PALESTINE MOBILE - WATANiya Telecom Palestine [PSEWM] ",
+    "Price per 1 MB": 0.2457,
+    "Country": "PALESTINE"
+  },
+  {
+    "Network": "PANAMA DIGICEL MOBILE - Digicel [PANDC] ",
+    "Price per 1 MB": 0.0402,
+    "Country": "PANAMA"
+  },
+  {
+    "Network": "PANAMA TELEFONICA MOBILE - Telefonica [PANMS] ",
+    "Price per 1 MB": 0.0669,
+    "Country": "PANAMA"
+  },
+  {
+    "Network": "PAPUA NEW GUINEA - Digicel [PNGDP] ",
+    "Price per 1 MB": 10.7405,
+    "Country": "PAPUA"
+  },
+  {
+    "Network": "PARAGUAY CLARO MOBILE - Claro [PRYHT] ",
+    "Price per 1 MB": 0.0365,
+    "Country": "PARAGUAY"
+  },
+  {
+    "Network": "PARAGUAY PERS MOBILE - Nucleo [PRYNP] ",
+    "Price per 1 MB": 0.0286,
+    "Country": "PARAGUAY"
+  },
+  {
+    "Network": "PARAGUAY TIGO MOBILE - (Telecel) [PRYTC] ",
+    "Price per 1 MB": 0.02,
+    "Country": "PARAGUAY"
+  },
+  {
+    "Network": "PERU AMERICA MOVIL MOBILE - Claro [PERTM] ",
+    "Price per 1 MB": 0.0441,
+    "Country": "PERU"
+  },
+  {
+    "Network": "PERU MOVISTAR MOBILE - Telefonica Movile - O2 [PERMO] ",
+    "Price per 1 MB": 0.0525,
+    "Country": "PERU"
+  },
+  {
+    "Network": "PHILIPPINE GLOBE MOBILE - Globe Telecom [PHLGT] ",
+    "Price per 1 MB": 1.1143,
+    "Country": "PHILIPPINE"
+  },
+  {
+    "Network": "PHILIPPINE GLOBE MOBILE - Globe Telecom [PHLGT] ",
+    "Price per 1 MB": 1.1143,
+    "Country": "PHILIPPINE"
+  },
+  {
+    "Network": "PHILIPPINES SMART MOBILE - (Smart Gold) [PHLSR] ",
+    "Price per 1 MB": 1.6251,
+    "Country": "PHILIPPINES"
+  },
+  {
+    "Network": "POLAND ERA MOBILE - (Era) [POL02] ",
+    "Price per 1 MB": 0.0142,
+    "Country": "POLAND"
+  },
+  {
+    "Network": "POLAND ORANGE MOBILE - (IDEA) Orange [POL03] ",
+    "Price per 1 MB": 0.0142,
+    "Country": "POLAND"
+  },
+  {
+    "Network": "PORTUGAL OPTIMUS MOBILE - Optimus [PRTOP] ",
+    "Price per 1 MB": 0.0142,
+    "Country": "PORTUGAL"
+  },
+  {
+    "Network": "PORTUGAL TMN MOBILE - (TMN) [PRTTM] ",
+    "Price per 1 MB": 0.0142,
+    "Country": "PORTUGAL"
+  },
+  {
+    "Network": "PUERTO RICO MOBILE - Claro [PRICL] ",
+    "Price per 1 MB": 0.0373,
+    "Country": "PUERTO"
+  },
+  {
+    "Network": "PUERTO RICO MOBILE - Claro [PRICL] ",
+    "Price per 1 MB": 0.0373,
+    "Country": "PUERTO"
+  },
+  {
+    "Network": "QATAR MOBILE - Q-Tel (QATARNET) [QATQT] ",
+    "Price per 1 MB": 0.0806,
+    "Country": "QATAR"
+  },
+  {
+    "Network": "QATAR VODAFONE MOBILE [QATB1] ",
+    "Price per 1 MB": 0.0911,
+    "Country": "QATAR"
+  },
+  {
+    "Network": "REUNION MOBILE - (SRR REUNION) [FRARE] ",
+    "Price per 1 MB": 0.0071,
+    "Country": "REUNION"
+  },
+  {
+    "Network": "REUNION MOBILE - Orange Reunion [REU02] ",
+    "Price per 1 MB": 0.0139,
+    "Country": "REUNION"
+  },
+  {
+    "Network": "ROMANIA COSMOROM MOBILE - Cosmote [ROMCS] ",
+    "Price per 1 MB": 0.0142,
+    "Country": "ROMANIA"
+  },
+  {
+    "Network": "ROMANIA ORANGE MOBILE - Orange [ROMMR] ",
+    "Price per 1 MB": 0.0142,
+    "Country": "ROMANIA"
+  },
+  {
+    "Network": "RUSSIA LMTS MOBILE - Mobile Tele Systems - MTS [RUS01] ",
+    "Price per 1 MB": 0.0509,
+    "Country": "RUSSIA"
+  },
+  {
+    "Network": "RUSSIA MEGAFON MOBILE - MegaFon [RUSNW] ",
+    "Price per 1 MB": 0.0373,
+    "Country": "RUSSIA"
+  },
+  {
+    "Network": "RUSSIA MOBILE - LLC – MOTIV [RUSEC] ",
+    "Price per 1 MB": 0.1824,
+    "Country": "RUSSIA"
+  },
+  {
+    "Network": "RWANDA AIRTEL MOBILE [RWAAR] ",
+    "Price per 1 MB": 0.1809,
+    "Country": "RWANDA"
+  },
+  {
+    "Network": "RWANDA MTN MOBILE - MTN [RWAMN] ",
+    "Price per 1 MB": 0.0228,
+    "Country": "RWANDA"
+  },
+  {
+    "Network": "RWANDA TIGO MOBILE - Tigo Ruwanda [RWATG] ",
+    "Price per 1 MB": 0.1809,
+    "Country": "RWANDA"
+  },
+  {
+    "Network": "SAMOA WEST MOBILE - Digicel [WSMDP] ",
+    "Price per 1 MB": 0.0368,
+    "Country": "SAMOA"
+  },
+  {
+    "Network": "SAO TOME AND PRINCIPE MOBILE - CTS [STPST] ",
+    "Price per 1 MB": 29.7686,
+    "Country": "SAO"
+  },
+  {
+    "Network": "SAUDI ARAB MOBILY MOBILE - Etisalat [SAUET] ",
+    "Price per 1 MB": 0.126,
+    "Country": "SAUDI"
+  },
+  {
+    "Network": "SAUDI ARAB MOBILY MOBILE - Etisalat [SAUET] ",
+    "Price per 1 MB": 0.126,
+    "Country": "SAUDI"
+  },
+  {
+    "Network": "SAUDI ARABIA JAWAL MOBILE - (STC) (AL JAWAL) [SAUAJ] ",
+    "Price per 1 MB": 0.0205,
+    "Country": "SAUDI"
+  },
+  {
+    "Network": "SENEGAL ORANGE MOBILE - Sonatel (ALIZE) [SENAZ] ",
+    "Price per 1 MB": 0.02,
+    "Country": "SENEGAL"
+  },
+  {
+    "Network": "SERBIA - VIP Mobile [SRBNO] ",
+    "Price per 1 MB": 39.7037,
+    "Country": "SERBIA"
+  },
+  {
+    "Network": "SERBIA TELENOR MOBILE - Telenor [YUGMT] ",
+    "Price per 1 MB": 0.0491,
+    "Country": "SERBIA"
+  },
+  {
+    "Network": "SEYCHELLES AIRTEL MOBILE - (AIRTEL) [SYCAT] ",
+    "Price per 1 MB": 0.0155,
+    "Country": "SEYCHELLES"
+  },
+  {
+    "Network": "SEYCHELLES CWS MOBILE - (C & W) [SYCCW] ",
+    "Price per 1 MB": 1.1421,
+    "Country": "SEYCHELLES"
+  },
+  {
+    "Network": "SIERRA LEONE OTHER MOBILE - Africell [SLEAC] ",
+    "Price per 1 MB": 0.121,
+    "Country": "SIERRA"
+  },
+  {
+    "Network": "SIERRA LEONE OTHER MOBILE - Celtel - ZAIN [SLECT] ",
+    "Price per 1 MB": 0.6998,
+    "Country": "SIERRA"
+  },
+  {
+    "Network": "SINGAPORE MOBILE - (SingTel) [SGPST] ",
+    "Price per 1 MB": 0.0525,
+    "Country": "SINGAPORE"
+  },
+  {
+    "Network": "SINGAPORE MOBILE - StarHub Pte Ltd [SGPSH] ",
+    "Price per 1 MB": 0.0417,
+    "Country": "SINGAPORE"
+  },
+  {
+    "Network": "SLOVAKIA EUROTEL MOBILE - Tmobile [SVKET] ",
+    "Price per 1 MB": 0.0142,
+    "Country": "SLOVAKIA"
+  },
+  {
+    "Network": "SLOVAKIA O2 MOBILE - Telefonica O2 [SVKO2] ",
+    "Price per 1 MB": 0.0142,
+    "Country": "SLOVAKIA"
+  },
+  {
+    "Network": "SLOVAKIA ORANGE MOBILE - Orange [SVKGT] ",
+    "Price per 1 MB": 0.0142,
+    "Country": "SLOVAKIA"
+  },
+  {
+    "Network": "SLOVENIA MOBITEL MOBILE - Telekom Slovenije [SVNMT] ",
+    "Price per 1 MB": 0.0142,
+    "Country": "SLOVENIA"
+  },
+  {
+    "Network": "SLOVENIA OTHER MOBILE - Tusmobil [SVNVG] ",
+    "Price per 1 MB": 0.0142,
+    "Country": "SLOVENIA"
+  },
+  {
+    "Network": "SOUTH AFRICA MTN MOBILE - MTN [ZAFMN] ",
+    "Price per 1 MB": 0.0205,
+    "Country": "SOUTH"
+  },
+  {
+    "Network": "SOUTH AFRICA OTHER MOBILE - Cell C [ZAFCC] ",
+    "Price per 1 MB": 0.1517,
+    "Country": "SOUTH"
+  },
+  {
+    "Network": "SOUTH AFRICA VODACOM MOBILE - Vodacom [ZAFVC] ",
+    "Price per 1 MB": 0.0782,
+    "Country": "SOUTH"
+  },
+  {
+    "Network": "SOUTH SUDAN MTN MOBILE [SSDMN] ",
+    "Price per 1 MB": 28.45,
+    "Country": "SOUTH"
+  },
+  {
+    "Network": "SOUTH SUDAN ZAIN MOBILE - Zain South Sudan [SSDZS] ",
+    "Price per 1 MB": 29.3037,
+    "Country": "SOUTH"
+  },
+  {
+    "Network": "SPAIN AMENA MOBILE - (Orange) [ESPRT] ",
+    "Price per 1 MB": 0.0142,
+    "Country": "SPAIN"
+  },
+  {
+    "Network": "SPAIN TELEFONICA-M MOBILE - (MOVISTAR) [ESPTE] ",
+    "Price per 1 MB": 0.0142,
+    "Country": "SPAIN"
+  },
+  {
+    "Network": "SRI LANKA DIALOG MOBILE - MTN [LKADG] ",
+    "Price per 1 MB": 4.8728,
+    "Country": "SRI LANKA"
+  },
+  {
+    "Network": "SRI LANKA ETISALAT MOBILE - Tigo [LKACT] ",
+    "Price per 1 MB": 0.783,
+    "Country": "SRI LANKA"
+  },
+  {
+    "Network": "SRI LANKA MOBITEL MOBILE - Mobitel [LKA71] ",
+    "Price per 1 MB": 0.0165,
+    "Country": "SRI LANKA"
+  },
+  {
+    "Network": "ST HELENA - Sure South Atlantic [SHNCW] ",
+    "Price per 1 MB": 21.8568,
+    "Country": "ST HELENA"
+  },
+  {
+    "Network": "ST KITTS AND NEVIS MOBILE - (C & W) [KNACW] ",
+    "Price per 1 MB": 0.1777,
+    "Country": "ST KITTS AND NEVIS"
+  },
+  {
+    "Network": "ST KITTS DIGICEL MOBILE - Digicel/Mossel [JAMDC] ",
+    "Price per 1 MB": 0.0368,
+    "Country": "ST KITTS AND NEVIS"
+  },
+  {
+    "Network": "ST LUCIA DIGICEL MOBILE - Digicel/Mossel [JAMDC] ",
+    "Price per 1 MB": 0.0368,
+    "Country": "ST LUCIA"
+  },
+  {
+    "Network": "ST LUCIA OTHER MOBILE - (C & W) [LCACW] ",
+    "Price per 1 MB": 0.1777,
+    "Country": "ST LUCIA"
+  },
+  {
+    "Network": "ST VINCENT DIGICEL MOBILE - Digicel [JAMDC] ",
+    "Price per 1 MB": 0.0368,
+    "Country": "ST VINCENT"
+  },
+  {
+    "Network": "ST VINCENT OTHER MOBILE - (C & W) [VCTCW] ",
+    "Price per 1 MB": 0.1777,
+    "Country": "ST VINCENT"
+  },
+  {
+    "Network": "SUDAN MTN MOBILE - Areeba [SDNBT] ",
+    "Price per 1 MB": 0.8605,
+    "Country": "SUDAN"
+  },
+  {
+    "Network": "SURINAME DIGICEL MOBILE - Digicel [SURDC] ",
+    "Price per 1 MB": 0.3554,
+    "Country": "SURINAME"
+  },
+  {
+    "Network": "SWAZILAND MOBILE - SWAZI-MOBILE [SWZ02]",
+    "Price per 1 MB": 37.0443,
+    "Country": "SWAZILAND"
+  },
+  {
+    "Network": "SWAZILAND MTN MOBILE - MTN [SWZMN] ",
+    "Price per 1 MB": 0.0223,
+    "Country": "SWAZILAND"
+  },
+  {
+    "Network": "SWEDEN COMVIQ MOBILE - Tele2 (COMVIQ) [SWEIQ] ",
+    "Price per 1 MB": 0.0142,
+    "Country": "SWEDEN"
+  },
+  {
+    "Network": "SWEDEN TELIA-M MOBILE - Telia Mobile [SWETR] ",
+    "Price per 1 MB": 0.0142,
+    "Country": "SWEDEN"
+  },
+  {
+    "Network": "SWEDEN VODAFONE MOBILE - Telenor (Vodafone) [SWEEP] ",
+    "Price per 1 MB": 0.0142,
+    "Country": "SWEDEN"
+  },
+  {
+    "Network": "SWEDEN VODAFONE MOBILE - Telenor (Vodafone) [SWEEP] ",
+    "Price per 1 MB": 0.0142,
+    "Country": "SWEDEN"
+  },
+  {
+    "Network": "SWEDEN VODAFONE MOBILE - Telenor (Vodafone) [SWEEP] ",
+    "Price per 1 MB": 0.0142,
+    "Country": "SWEDEN"
+  },
+  {
+    "Network": "SWITZERLAND ORANGE MOBILE - (Orange) [CHEOR] ",
+    "Price per 1 MB": 0.0066,
+    "Country": "SWITZERLAND"
+  },
+  {
+    "Network": "SWITZRL SWISSCOM-M MOBILE - (Swisscom) [CHEC1] ",
+    "Price per 1 MB": 0.755,
+    "Country": "SWITZRL"
+  },
+  {
+    "Network": "SWITZRL SWISSCOM-M MOBILE - (Swisscom) [CHEC1] ",
+    "Price per 1 MB": 0.755,
+    "Country": "SWITZRL"
+  },
+  {
+    "Network": "SWITZRLND SUNRISE MOBILE - (Sunrise) [CHEDX] ",
+    "Price per 1 MB": 0.0866,
+    "Country": "SWITZRLND"
+  },
+  {
+    "Network": "TAIWAN MOBILE - Chunghwa Telecom LDM (LDTA GSM) [TWNLD] ",
+    "Price per 1 MB": 0.1488,
+    "Country": "TAIWAN"
+  },
+  {
+    "Network": "TAIWAN MOBILE - Chunghwa Telecom LDM (LDTA GSM) [TWNLD] ",
+    "Price per 1 MB": 0.1488,
+    "Country": "TAIWAN"
+  },
+  {
+    "Network": "TAIWAN NON CHT MOBILE - Taiwan Mobile [TWNPC] ",
+    "Price per 1 MB": 0.0777,
+    "Country": "TAIWAN"
+  },
+  {
+    "Network": "TAIWAN NON CHT MOBILE - VIBO TELECOM [TWNTG] ",
+    "Price per 1 MB": 0.1612,
+    "Country": "TAIWAN"
+  },
+  {
+    "Network": "TAJIKISTAN INDIGO MOBILE - Indigo Tajikistan [TJKIT] ",
+    "Price per 1 MB": 0.41,
+    "Country": "TAJIKISTAN"
+  },
+  {
+    "Network": "TAJIKISTAN TAKOM MOBILE [TJK91] ",
+    "Price per 1 MB": 0.0711,
+    "Country": "TAJIKISTAN"
+  },
+  {
+    "Network": "TAJIKSTAN SOMONCO TCELL MOBILE [TJK01] ",
+    "Price per 1 MB": 1.4818,
+    "Country": "TAJIKSTAN"
+  },
+  {
+    "Network": "TANZANIA CELTEL MOBILE - Airtel - Celtel Tanzania Limited [TZACT] ",
+    "Price per 1 MB": 0.015,
+    "Country": "TANZANIA"
+  },
+  {
+    "Network": "TANZANIA TIGO MOBILE - (Mobitel) [TZAMB] ",
+    "Price per 1 MB": 36.5938,
+    "Country": "TANZANIA"
+  },
+  {
+    "Network": "TANZANIA VODACOM MOBILE - Vodacom [TZAVC] ",
+    "Price per 1 MB": 0.3381,
+    "Country": "TANZANIA"
+  },
+  {
+    "Network": "TANZANIA ZANTEL MOBILE - (ZANTEL) [TZAZN] ",
+    "Price per 1 MB": 0.1202,
+    "Country": "TANZANIA"
+  },
+  {
+    "Network": "THAILAND - AWN (Advanced Wireless Networks) [THAWN] ",
+    "Price per 1 MB": 0.02,
+    "Country": "THAILAND"
+  },
+  {
+    "Network": "THAILAND MOBILE - dtac (TAC) [THAWP] ",
+    "Price per 1 MB": 0.1302,
+    "Country": "THAILAND"
+  },
+  {
+    "Network": "THAILAND MOBILE - DTAC TRINET Co Lts [THADT]",
+    "Price per 1 MB": 0.1423,
+    "Country": "THAILAND"
+  },
+  {
+    "Network": "THURAYA - Thuraya [ARETH] ",
+    "Price per 1 MB": 53.6621,
+    "Country": "THURAYA"
+  },
+  {
+    "Network": "TOGO OTHER MOBILE - Togo Telecom (TOGOCEL) [TGOTC] ",
+    "Price per 1 MB": 49.8191,
+    "Country": "TOGO"
+  },
+  {
+    "Network": "TONGA - Digicel Tonga [TONDP] ",
+    "Price per 1 MB": 0.0365,
+    "Country": "TONGA"
+  },
+  {
+    "Network": "TRINIDAD DIGICEL MOBILE - Digicel Mossel [TTODL] ",
+    "Price per 1 MB": 0.3554,
+    "Country": "TRINIDAD"
+  },
+  {
+    "Network": "TRINIDAD DIGICEL MOBILE - Digicel Mossel [TTODL] ",
+    "Price per 1 MB": 0.3554,
+    "Country": "TRINIDAD"
+  },
+  {
+    "Network": "TUNISIA TUNISIANA MOBILE - Orascom Telecom Tunisie (TUNISIANA) [TUNTA] ",
+    "Price per 1 MB": 5.3537,
+    "Country": "TUNISIA"
+  },
+  {
+    "Network": "TURKEY AVEA MOBILE - AVEA [TURIS] ",
+    "Price per 1 MB": 0.0139,
+    "Country": "TURKEY"
+  },
+  {
+    "Network": "TURKEY AVEA MOBILE - AVEA [TURIS] ",
+    "Price per 1 MB": 0.0139,
+    "Country": "TURKEY"
+  },
+  {
+    "Network": "TURKEY TURKCELL MOBILE - Turkcell [TURTC] ",
+    "Price per 1 MB": 0.0055,
+    "Country": "TURKEY"
+  },
+  {
+    "Network": "TURKMENISTAN MOBILE - TMCell [TKMAA] ",
+    "Price per 1 MB": 29.8573,
+    "Country": "TURKMENISTAN"
+  },
+  {
+    "Network": "TURKS AND CAICOS IS MOBILE - (C & W) [TCACW] ",
+    "Price per 1 MB": 0.1777,
+    "Country": "TURKS"
+  },
+  {
+    "Network": "TURKS IS DIGICEL MOBILE - Digicel Mossel [JAMDC] ",
+    "Price per 1 MB": 0.0368,
+    "Country": "TURKS"
+  },
+  {
+    "Network": "UGANDA AIRTEL MOBILE - Airtel [UGACE] ",
+    "Price per 1 MB": 0.015,
+    "Country": "UGANDA"
+  },
+  {
+    "Network": "UGANDA MTN MOBILE - MTN [UGAMN] ",
+    "Price per 1 MB": 0.0223,
+    "Country": "UGANDA"
+  },
+  {
+    "Network": "UGANDA ORANGE MOBILE - Orange [UGAOR] ",
+    "Price per 1 MB": 0.1058,
+    "Country": "UGANDA"
+  },
+  {
+    "Network": "UK AIRTEL MOBILE - Airtel-Vodafone [GBRAJ] ",
+    "Price per 1 MB": 26.2264,
+    "Country": "UK"
+  },
+  {
+    "Network": "UK Mobile - C&W Guernsey Sure [GBRGT] ",
+    "Price per 1 MB": 0.0336,
+    "Country": "UK"
+  },
+  {
+    "Network": "UK Mobile - O2 [GBRCN] ",
+    "Price per 1 MB": 0.0142,
+    "Country": "UK"
+  },
+  {
+    "Network": "UK Mobile - O2 [GBRCN] ",
+    "Price per 1 MB": 0.0142,
+    "Country": "UK"
+  },
+  {
+    "Network": "UK Mobile - Three [GBRHU] ",
+    "Price per 1 MB": 0.0142,
+    "Country": "UK"
+  },
+  {
+    "Network": "UKRAINE ASTELIT MOBILE - Astelit [UKRAS] ",
+    "Price per 1 MB": 0.01,
+    "Country": "UKRAINE"
+  },
+  {
+    "Network": "UKRNE KYIVSTAR MOB MOBILE - Kyivstar GSM JSC [UKRKS] ",
+    "Price per 1 MB": 39.1052,
+    "Country": "UKRNE"
+  },
+  {
+    "Network": "UNITED ARAB EMIRATES MOBILE - DU [AREDU] ",
+    "Price per 1 MB": 0.5053,
+    "Country": "UNITED ARAB EMIRATES"
+  },
+  {
+    "Network": "UNITED ARAB EMIRATES MOBILE - ETISALAT [ARETC] ",
+    "Price per 1 MB": 0.1265,
+    "Country": "UNITED ARAB EMIRATES"
+  },
+  {
+    "Network": "UNITED STATES - Airadigm Communications [USAAE] ",
+    "Price per 1 MB": 18.0482,
+    "Country": "UNITED STATES"
+  },
+  {
+    "Network": "UNITED STATES - AT&T [USACG] ",
+    "Price per 1 MB": 0.015,
+    "Country": "UNITED STATES"
+  },
+  {
+    "Network": "UNITED STATES - AT&T [USACG] ",
+    "Price per 1 MB": 0.015,
+    "Country": "UNITED STATES"
+  },
+  {
+    "Network": "UNITED STATES - Choice Wireless [USAKD]",
+    "Price per 1 MB": 0.1932,
+    "Country": "UNITED STATES"
+  },
+  {
+    "Network": "UNITED STATES - Commnet Wireless [USACO] ",
+    "Price per 1 MB": 0.1129,
+    "Country": "UNITED STATES"
+  },
+  {
+    "Network": "UNITED STATES - GCI [USAGC] ",
+    "Price per 1 MB": 0.0373,
+    "Country": "UNITED STATES"
+  },
+  {
+    "Network": "UNITED STATES - GCI [USAGC] ",
+    "Price per 1 MB": 0.0373,
+    "Country": "UNITED STATES"
+  },
+  {
+    "Network": "UNITED STATES - T-Mobile [USAW6] ",
+    "Price per 1 MB": 0.0368,
+    "Country": "UNITED STATES"
+  },
+  {
+    "Network": "UNITED STATES - T-Mobile [USAW6] ",
+    "Price per 1 MB": 0.0368,
+    "Country": "UNITED STATES"
+  },
+  {
+    "Network": "UNITED STATES - T-Mobile [USAW6] ",
+    "Price per 1 MB": 0.0368,
+    "Country": "UNITED STATES"
+  },
+  {
+    "Network": "UNITED STATES - T-Mobile [USAW6] ",
+    "Price per 1 MB": 0.0368,
+    "Country": "UNITED STATES"
+  },
+  {
+    "Network": "UNITED STATES - T-Mobile [USAW6] ",
+    "Price per 1 MB": 0.0368,
+    "Country": "UNITED STATES"
+  },
+  {
+    "Network": "UNITED STATES - T-Mobile [USAW6] ",
+    "Price per 1 MB": 0.0368,
+    "Country": "UNITED STATES"
+  },
+  {
+    "Network": "UNITED STATES - T-Mobile [USAW6] ",
+    "Price per 1 MB": 0.0368,
+    "Country": "UNITED STATES"
+  },
+  {
+    "Network": "UNITED STATES - T-Mobile [USAW6] ",
+    "Price per 1 MB": 0.0368,
+    "Country": "UNITED STATES"
+  },
+  {
+    "Network": "UNITED STATES - T-Mobile [USAW6] ",
+    "Price per 1 MB": 0.0368,
+    "Country": "UNITED STATES"
+  },
+  {
+    "Network": "UNITED STATES - T-Mobile [USAW6] ",
+    "Price per 1 MB": 0.0368,
+    "Country": "UNITED STATES"
+  },
+  {
+    "Network": "UNITED STATES - T-Mobile [USAW6] ",
+    "Price per 1 MB": 0.0368,
+    "Country": "UNITED STATES"
+  },
+  {
+    "Network": "UNITED STATES - T-Mobile [USAW6] ",
+    "Price per 1 MB": 0.0368,
+    "Country": "UNITED STATES"
+  },
+  {
+    "Network": "UNITED STATES - T-Mobile [USAW6] ",
+    "Price per 1 MB": 0.0368,
+    "Country": "UNITED STATES"
+  },
+  {
+    "Network": "UNITED STATES - T-Mobile [USAW6] ",
+    "Price per 1 MB": 0.0368,
+    "Country": "UNITED STATES"
+  },
+  {
+    "Network": "UNITED STATES - Telna [USATL] ",
+    "Price per 1 MB": 2.3339,
+    "Country": "UNITED STATES"
+  },
+  {
+    "Network": "UNITED STATES - Viaero [USACI] ",
+    "Price per 1 MB": 0.1685,
+    "Country": "UNITED STATES"
+  },
+  {
+    "Network": "UNITED STATES - Viaero [USACI] ",
+    "Price per 1 MB": 0.1685,
+    "Country": "UNITED STATES"
+  },
+  {
+    "Network": "URUGUAY CLARO MOBILE - CTI [URYAM] ",
+    "Price per 1 MB": 0.0365,
+    "Country": "URUGUAY"
+  },
+  {
+    "Network": "URUGUAY MOVISTAR MOBILE - Telefonica Moviles del Uruguay [URYTM] ",
+    "Price per 1 MB": 0.1769,
+    "Country": "URUGUAY"
+  },
+  {
+    "Network": "UZBEKISTAN BEELINE MOBILE - Unitel (Beeline) [UZBDU] ",
+    "Price per 1 MB": 0.2179,
+    "Country": "UZBEKISTAN"
+  },
+  {
+    "Network": "UZBEKISTAN UCELL MOBILE - U-Cell (Coscom) [UZB05] ",
+    "Price per 1 MB": 36.6991,
+    "Country": "UZBEKISTAN"
+  },
+  {
+    "Network": "VANUATU MOBILE - Vanuatu Telecom [VUT01] ",
+    "Price per 1 MB": 31.8562,
+    "Country": "VANUATU"
+  },
+  {
+    "Network": "VENEZUELA MOVISTAR MOBILE - Telefonica Movil - O2 [VENMS] ",
+    "Price per 1 MB": 0.4313,
+    "Country": "VENEZUELA"
+  },
+  {
+    "Network": "VIETNAM MOBILE - (Vinaphone) [VNMVI] ",
+    "Price per 1 MB": 0.0042,
+    "Country": "VIETNAM"
+  },
+  {
+    "Network": "VIETNAM VIETTEL MOBILE - Viettel [VNMVT] ",
+    "Price per 1 MB": 0.0205,
+    "Country": "VIETNAM"
+  },
+  {
+    "Network": "VIRGIN ISLANDS UK MOBILE - C&W [VGBCW] ",
+    "Price per 1 MB": 0.1777,
+    "Country": "VIRGIN"
+  },
+  {
+    "Network": "VIRGIN ISLANDS UK MOBILE - Digicel [JAMDC]",
+    "Price per 1 MB": 0.0368,
+    "Country": "VIRGIN"
+  },
+  {
+    "Network": "YEMEN MOBILE - (Sabafon) [YEMSA] ",
+    "Price per 1 MB": 13.656,
+    "Country": "YEMEN"
+  },
+  {
+    "Network": "ZAMBIA CELL Z MOBILE - (ZAMTEL) [ZMBCZ] ",
+    "Price per 1 MB": 3.5771,
+    "Country": "ZAMBIA"
+  },
+  {
+    "Network": "ZAMBIA MTN MOBILE [ZMB02] ",
+    "Price per 1 MB": 0.0249,
+    "Country": "ZAMBIA"
+  },
+  {
+    "Network": "ZAMBIA ZAIN MOBILE - Celtel Zambia Limited [ZMBCE] ",
+    "Price per 1 MB": 0.015,
+    "Country": "ZAMBIA"
+  },
+  {
+    "Network": "ZIMBABWE ECONET MOBILE - Econet Wireless (Private) Limited [ZWEET] ",
+    "Price per 1 MB": 18.0243,
+    "Country": "ZIMBABWE"
+  },
+  {
+    "Network": "ZIMBABWE NET ONE MOBILE - P + T Corporation (NET*ONE) [ZWEN1] ",
+    "Price per 1 MB": 21.1475,
+    "Country": "ZIMBABWE"
+  },
+  {
+    "Network": "ZIMBABWE TELECEL MOBILE - Telecel [ZWEN3] ",
+    "Price per 1 MB": 35.7709,
+    "Country": "ZIMBABWE"
+  }
+ ]
